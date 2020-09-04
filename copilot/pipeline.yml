@@ -16,7 +16,7 @@ source:
   properties:
     access_token_secret: github-token-kkdemoapp1-copilot-test
     branch: master
-    repository: https://github.com/erno/copilot-test
+    repository: https://github.com/erno/copilot-test2
 
 # The deployment section defines the order the pipeline will deploy
 # to your environments.
