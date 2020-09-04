@@ -1,7 +1,7 @@
 # This YAML file defines the relationship and deployment ordering of your environments.
 
 # The name of the pipeline
-name: pipeline-kkdemoapp1-erno-copilot-test
+name: pipeline-kkdemoapp1-erno-copilot-test2
 
 # The version of the schema used in this template
 version: 1
@@ -14,7 +14,7 @@ source:
   # the artifacts should be sourced from. For example, the GitHub provider
   # has the following properties: repository, branch.
   properties:
-    access_token_secret: github-token-kkdemoapp1-copilot-test
+    access_token_secret: github-token-kkdemoapp1-copilot-test2
     branch: master
     repository: https://github.com/erno/copilot-test2
 
